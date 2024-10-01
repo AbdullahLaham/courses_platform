@@ -6,7 +6,7 @@ import React from 'react'
 const Logo = () => {
   return (
     // logo from logoipsum
-    <Image width={130} height={130} alt='logo'  src={'/logo.svg'} />
+    <Image width={130} height={80} alt='logo'  src={'/logo.png'} />
   )
 }
 

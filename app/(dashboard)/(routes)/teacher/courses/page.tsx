@@ -23,7 +23,7 @@ const CoursesPage = async () => {
   return (
     <div className='p-6'>
       <Link href={'/teacher/create'}>
-        <Button>
+        <Button className='my-2'>
             New Course
         </Button>
       </Link>
